@@ -1,4 +1,4 @@
-<h1 align="center">💻 Ashutosh Bhatt(SKY_)</h1>
+<h1 align="center">💻 Ashutosh Bhatt</h1>
 <h3 align="center">Software Engineer in the Making | ML | Full Stack | Systems</h3>
 
 <p align="center">
@@ -55,14 +55,13 @@
 ## 📊 Contribution Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshbhatt2609&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshbhatt2609&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshbhatt2609&show_icons=true&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshbhatt2609&show_icons=true&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshbhatt2609&layout=compact&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshbhatt2609&layout=compact&theme=transparent&hide_border=true"/>
 </p>
-
