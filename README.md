@@ -59,10 +59,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshbhatt2609&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshbhatt2609&show_icons=true&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashutoshbhatt2609&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashutoshbhatt2609&theme=github_dark&utcOffset=5.5"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshbhatt2609&layout=compact&theme=github-dark&hide_border=true"/>
 </p>
+
