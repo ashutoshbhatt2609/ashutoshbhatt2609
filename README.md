@@ -55,13 +55,14 @@
 ## 📊 Contribution Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshbhatt2609&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshbhatt2609&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshbhatt2609&show_icons=true&theme=transparent&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshbhatt2609&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshbhatt2609&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashutoshbhatt2609&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashutoshbhatt2609&theme=github_dark&utcOffset=5.5"/>
 </p>
