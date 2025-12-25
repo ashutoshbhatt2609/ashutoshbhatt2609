@@ -1,56 +1,40 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Bhatt</h1>
-<h3 align="center">Future Software Engineer • ML Learner • Full-Stack Developer • Tech Explorer</h3>
+<h3 align="center">Future Software Engineer • ML Learner • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutoshbhatt2609&label=Profile%20Views&color=8A2BE2&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1200&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;Machine+Learning+Explorer;Full+Stack+Developer;Building+Real+World+Tech" />
+  <img src="https://komarev.com/ghpvc/?username=ashutoshbhatt2609&style=flat&color=blueviolet" />
 </p>
 
 ---
 
 ## 🧬 About Me
 
-- 🧑‍🎓 Engineering student passionate about **ML, Web & Systems**
+- 🧑‍🎓 Engineering student
 - ⚡ Learning **Machine Learning, DSA, OS, DBMS**
-- 💻 Love building real-world usable software
-- 🚀 Dream: **Elite AI / Software Engineer**
+- 💻 Building real-world usable software
+- 🚀 Goal: **Elite AI / Software Engineer**
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages:**  
-`C` `C++` `Python` `JavaScript`
-
-**Web:**  
-`HTML` `CSS` `React` `Node.js`
-
-**Core CS:**  
-`DSA` `OS` `DBMS` `CN`
-
-**AI / ML:**  
-`NumPy` `Pandas` `Scikit-Learn`
-
-**Tools:**  
-`Git` `GitHub` `Linux` `VS Code`
+**Languages:** `C` `C++` `Python` `JavaScript`  
+**Web:** `HTML` `CSS` `React` `Node.js`  
+**Core CS:** `DSA` `OS` `DBMS` `CN`  
+**AI/ML:** `NumPy` `Pandas` `Scikit-Learn`  
+**Tools:** `Git` `GitHub` `Linux` `VS Code`
 
 ---
 
-## 📊 GitHub Stats (Guaranteed Working)
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshbhatt2609&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshbhatt2609&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshbhatt2609&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshbhatt2609&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashutoshbhatt2609&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashutoshbhatt2609&theme=github_dark" />
 </p>
 
 ---
@@ -70,8 +54,4 @@
 
 ## 🧿 Philosophy
 
-> “I’m not here to be average.  
-> I’m here to be **dangerously good at what I do.**”
-
-⭐ Star my repos if you find my work useful.  
-Let’s build the future 🚀
+> Build. Learn. Dominate.
