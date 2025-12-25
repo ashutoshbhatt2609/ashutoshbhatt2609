@@ -1,4 +1,4 @@
-<h1 align="center">💻 Ashutosh Bhatt</h1>
+<h1 align="center">💻 Ashutosh Bhatt(SKY_)</h1>
 <h3 align="center">Software Engineer in the Making | ML | Full Stack | Systems</h3>
 
 <p align="center">
@@ -13,10 +13,10 @@
 ---
 
 ## 💫 About Me
-- 🧑‍🎓 Engineering student
-- ⚡ Learning **ML, DSA, OS, DBMS**
-- 💻 Building real-world usable software
-- 🚀 Goal: Elite AI / Software Engineer
+- 🧑‍🎓 Engineering student  
+- ⚡ Learning **ML, DSA, OS, DBMS**  
+- 💻 Building real-world usable software  
+- 🚀 Goal: Elite AI / Software Engineer  
 
 ---
 
@@ -52,14 +52,17 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Contribution Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshbhatt2609&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshbhatt2609&theme=github-dark&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshbhatt2609&theme=github_dark"/>
+</p>
 
-## 🧿 Quote
-
-> Build. Learn. Dominate.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashutoshbhatt2609&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashutoshbhatt2609&theme=github_dark&utcOffset=5.5"/>
+</p>
