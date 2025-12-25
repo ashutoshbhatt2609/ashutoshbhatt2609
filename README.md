@@ -2,19 +2,19 @@
 <h3 align="center">Future Software Engineer • ML Learner • Full-Stack Developer • Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutoshbhatt2609&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ashutoshbhatt2609&label=Profile%20Views&color=8A2BE2&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;Machine+Learning+Explorer;Full+Stack+Developer;Quantum+%26+Photonics+Learner;Building+Real+World+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1200&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;Machine+Learning+Explorer;Full+Stack+Developer;Building+Real+World+Tech" />
 </p>
 
 ---
 
 ## 🧬 About Me
 
-- 🧑‍🎓 Engineering student passionate about **ML, Web, Systems & Physics**
-- ⚡ Learning **Machine Learning, DSA, OS, DBMS, Quantum Computing**
+- 🧑‍🎓 Engineering student passionate about **ML, Web & Systems**
+- ⚡ Learning **Machine Learning, DSA, OS, DBMS**
 - 💻 Love building real-world usable software
 - 🚀 Dream: **Elite AI / Software Engineer**
 
@@ -28,7 +28,7 @@
 **Web:**  
 `HTML` `CSS` `React` `Node.js`
 
-**CS Core:**  
+**Core CS:**  
 `DSA` `OS` `DBMS` `CN`
 
 **AI / ML:**  
@@ -39,15 +39,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Guaranteed Working)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshbhatt2609&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshbhatt2609&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshbhatt2609&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshbhatt2609&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshbhatt2609&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshbhatt2609&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
